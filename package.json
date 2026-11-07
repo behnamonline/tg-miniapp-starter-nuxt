@@ -1,0 +1,21 @@
+{
+  "name": "nuxt-miniapp-starter",
+  "version": "1.0.0",
+  "description": "Nuxt 4 starter for Telegram Mini Apps (Cloudflare D1, Tailwind, initData auth)",
+  "license": "MIT",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxtjs/tailwindcss": "^6.14.0",
+    "nuxt": "^4.6.3",
+    "vue": "^3.5.44",
+    "vue-router": "^5.4.0"
+  }
+}
