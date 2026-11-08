@@ -1,8 +1,8 @@
 {
     "d1_databases":[
         {
-      "database_name": "my-mini-app-db",
-      "database_id": "13b0ee07-4dc0-40fe-aee4-97b5c93d400a",
+      "database_name": "my-app-db",
+      "database_id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
       "binding": "db_link"
         }
     ]
